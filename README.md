@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prajna-hj
 - 👀 I’m interested in software development 
-- 🌱 I’m currently learning java
+- 🌱 B.Tech CSE Student Interested in Software Development Java|Python|Web Development
 - 📫 How to reach me prajnahj@gmail.com
 - 😄 Pronouns: her/she
 
